@@ -8,6 +8,13 @@
   <a href="https://github.com/javokhirdeveloper/readmeda-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23318CF7&size=22&width=280&height=90&lines=I+am+Javohir+Rashidov&)](https://git.io/typing-svg")></a>
 </p>
 
+<h2>Skills and Experience</h2>
+<p><strong>   * 🗣️ Uzbek (nationl) , English(B2) </strong></p>
+<p><strong>   *  ⚛ Electronics , Mechatronics and Robotics  </strong></p>
+<p><strong>   * 💻 C++ , Python , HTML(a bit) </strong> </p>
+
+<!-- <p>   * 📱 React </p> -->
+
 <h2>Connect with me</h2>
 <p align="center">
   <a href="https://t.me/Javohir_R_04">
