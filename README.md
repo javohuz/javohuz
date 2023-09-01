@@ -11,9 +11,13 @@
 <h2>Skills and Experience</h2>
 <p><strong>   * 🗣️ Uzbek (nationl) , English(B2) </strong></p>
 <p><strong>   *  ⚛ Electronics , Mechatronics and Robotics  </strong></p>
-<p><strong>   * 💻 C++ , Python , HTML(a bit) </strong> </p>
+<p><strong>   * ⚙️ Python, C++ , Algorithms </p>
+<p><strong>   *  < / > Html, CSS , Bootstrap5 </p>
+<p><strong>   *  ≡  Django  </p>
 
-<!-- <p>   * 📱 React </p> -->
+
+
+<!-- <p>   * 📱 💻 React </p> -->
 
 <h2>Connect with me</h2>
 <p align="center">
