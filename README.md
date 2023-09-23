@@ -1,10 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javokhirdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="javokhirdeveloper" /> </p>
-<a href="https://javo.uz/"> 
+
+ 
 <h3 align="center">
- Hi There , Welcome to My Profile!
+ Hi There , Welcome to <a href="https://javo.uz/"> My Profile! </a>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-</a>
+
 <p align="center">
   <a href="https://github.com/javokhirdeveloper/readmeda-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23318CF7&size=22&width=280&height=90&lines=I+am+Javohir+Rashidov&)](https://git.io/typing-svg")></a>
 </p>
