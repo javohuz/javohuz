@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/javohuz"><img src="https://readme-typing-svg.herokuapp.com?color=%23318CF7&size=22&width=280&height=90&lines=I+am+Javohir+Rashidov&)](https://git.io/typing-svg")></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=%23318CF7&size=22&width=280&height=90&lines=I+am+Javohir+Rashidov&)](https://git.io/typing-svg")></a>
 </p>
 
 <h2>Skills and Experience</h2>
