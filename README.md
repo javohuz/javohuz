@@ -1,6 +1,6 @@
 
 <h2 align="center">
- I'm Python Software Engineer. <br> H&Kgroup Worker <br><br>
+ I'm Software Engineer and <br>working at Uravo company<br><br>
 </h2>
 
 <h3 align="center">
